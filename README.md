@@ -1,5 +1,5 @@
 # POKEMON GO
-Este proyecto esta basado en el juego de pokemon go, y se basa en mostrar todos los pokemones y sus caracteristicas , para intresar tendras que usar tanto como en el usuario como en la contraseña la palabra clave "LABORATORIA".
+Este proyecto esta basado en el juego de pokemon go, consiste en mostrar todos los pokemones y sus caracteristicas también poder ordenarlos y filtrarlos , para ingresar tendrás que usar tanto como en el usuario como para la contraseña la palabra clave "LABORATORIA".
 
 ## Índice
 
